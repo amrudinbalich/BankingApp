@@ -1,0 +1,38 @@
+Full Stack App
+
+An idea :
+
+Idea is to create a REST api in PHP . 
+Considered on a HTTP method that is passed via Client (JS) specific task will be performed (CRUD)
+This will be a simple app designed to Create , Read , Update or Delete a contents form a database table using a REST api
+
+Client-Side :
+HTML , CSS , JS , BootStrap
+
+Server-Side : 
+PHP , MySQL
+
+
+USER : 
+
+I want option for user to log in.
+I want option for user to log out.
+If user dont have a account I want him to register . (Registration process will be structured later)
+
+Development process : 
+
+Pitanja 
+
+Ne zelim da napravim istu gresku kao i u proslom projektu 
+Ovoga puta zelim ozbiljnij pristup 
+Istraziti vise o autorizaciji . 
+
+
+
+
+Index.php
+
+I want javascript to do the job here .
+I want javascript to fetch data from input form (if possible) and to send it to the backend using AJAX
+
+

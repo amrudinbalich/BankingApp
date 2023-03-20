@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.welcome {
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.bor {
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.margin-top {
+    margin-top: 200px;
+    margin-inline: auto;
+}
